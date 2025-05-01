@@ -1,6 +1,6 @@
 {
-  "name": "qwel-okuetu-manmaru",
-  "version": "1.0.0",
+  "name": "qwel-wp-okuetu-manmaru",
+  "version": "1.0",
   "description": "",
   "main": "init.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/taigoito/qwel-okuetu-manmaru.git"
+    "url": "git+https://github.com/qweldesign/qwel-wp-okuetu-manmaru.git"
   },
   "author": "Taigo Ito",
-  "license": "GPL",
+  "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/taigoito/qwel-okuetu-manmaru/issues"
+    "url": "https://github.com/qweldesign/qwel-wp-okuetu-manmaru/issues"
   },
-  "homepage": "https://github.com/taigoito/qwel-okuetu-manmaru#readme"
+  "homepage": "https://github.com/qweldesign/qwel-wp-okuetu-manmaru#readme"
 }
