@@ -1064,6 +1064,16 @@ li:nth-child(3n) .card {
 }
 
 /**
+ * Project - Banner
+ */
+.banner {
+  transition: opacity 0.5s ease;
+}
+.banner:hover {
+  opacity: 0.7;
+}
+
+/**
  * Utility - Flex
  */
 .--flex_center {
